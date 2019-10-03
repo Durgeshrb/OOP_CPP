@@ -1,0 +1,8 @@
+allow
+answer
+mice
+apple
+orange
+ox 
+fox
+fogg
